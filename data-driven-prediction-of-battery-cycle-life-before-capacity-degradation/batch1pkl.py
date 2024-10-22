@@ -11,4 +11,4 @@ list(f.keys())
 
 batch = f['batch']
 
-list(batch.keys())
+print(list(batch.keys()))
